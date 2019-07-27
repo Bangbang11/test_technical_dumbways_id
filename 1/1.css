@@ -1,0 +1,42 @@
+body {
+	background-color: #f0f5f5;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+form {
+	margin-left: 20px;
+}
+
+#nama, #lahir, #tanggallahir, #hp, #alamat, #pendidikan {
+	margin: 10px 0px 20px 0px;
+}
+
+#islam, #renang {
+	margin-top: 10px;
+}
+
+#katolik, #programming {
+	margin-bottom: 20px;
+}
+
+#submit {
+	background-color: #3366ff;
+	color: white;
+	height: 30px;
+	width: 100px;
+	border-radius: 8px;
+}
+
+#nama, #hp {
+	width: 300px;
+	height: 20px;
+}
+
+#alamat {
+	width: 300px;
+}
+
+#lahir, #tanggallahir, #pendidikan {
+	width: 150px;
+	height: 20px;
+}
